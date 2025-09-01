@@ -1,7 +1,5 @@
 # football-detection-tracking
 
-# football-detection-tracking
-
 **Object Detection & Tracking for Football (Soccer) Footage**  
 Leverage computer vision to detect and track players and the ball in football videos using state-of-the-art models like YOLO and tracking algorithms such as DeepSORT or ByteTrack.
 
@@ -25,10 +23,7 @@ football-detection-tracking/
 ├── object\_detection/         # Detection module (e.g. YOLOv5, YOLOv8 models & utilities)
 ├── object\_tracking/          # Tracking module (e.g. DeepSORT, ByteTrack integration)
 ├── notebooks/                # Jupyter notebooks for demos and experiments
-├── requirements.txt          # Required Python packages
-├── README.md                 # This documentation
-└── LICENSE                   # Project license
-
+└── README.md                 # This documentation
 ````
 
 
