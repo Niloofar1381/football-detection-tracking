@@ -56,8 +56,6 @@ python object_tracking/run_tracking.py \
   --tracker deepsort
 ```
 
-*(Adjust options to match your CLI interface.)*
-
 ### 5. View results
 
 * Output video will show bounding boxes, object IDs, and optionally trajectories.
